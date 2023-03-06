@@ -1,0 +1,7 @@
+CIS 3920
+
+Project Ideas
+
+- 13_TM_1.ipynb
+- Seaborn
+- Matplotlib
